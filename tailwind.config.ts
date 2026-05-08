@@ -21,6 +21,7 @@ export default {
 			fontFamily: {
 				sans: ['var(--font-montserrat)'],
 				heading: ['var(--font-inter)'],
+				display: ["'Unbounded'", 'sans-serif'],
 			},
 			colors: {
 				border: 'hsl(var(--border))',
