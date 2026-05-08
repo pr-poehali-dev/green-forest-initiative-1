@@ -176,10 +176,10 @@ export default function Index() {
             <div className="flex flex-col md:flex-row items-center gap-8 md:gap-12">
               <div className="w-48 h-48 md:w-64 md:h-64 rounded-full overflow-hidden border-4 border-amber-400 flex-shrink-0">
                 <img
-                  src="https://cdn.poehali.dev/projects/b0d40530-9cee-4726-bad5-d79a9df23b5a/bucket/f3ddbde8-9b02-46c7-9fd9-8afb781ddc46.png"
+                  src="https://cdn.poehali.dev/projects/b0d40530-9cee-4726-bad5-d79a9df23b5a/bucket/41814b20-e8a6-4ca8-b32c-6507a2f2b9ad.png"
                   alt="Автор канала"
                   className="w-full h-full object-cover"
-                  style={{ objectPosition: "50% 20%" }}
+                  style={{ objectPosition: "50% 15%" }}
                 />
               </div>
               <div className="space-y-4 text-center md:text-left px-4 md:px-0">
